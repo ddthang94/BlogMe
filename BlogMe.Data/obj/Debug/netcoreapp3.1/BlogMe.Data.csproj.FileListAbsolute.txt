@@ -1,0 +1,10 @@
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\bin\Debug\netcoreapp3.1\BlogMe.Data.deps.json
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\bin\Debug\netcoreapp3.1\BlogMe.Data.dll
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\bin\Debug\netcoreapp3.1\BlogMe.Data.pdb
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.csproj.AssemblyReference.cache
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.AssemblyInfoInputs.cache
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.AssemblyInfo.cs
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.csproj.CoreCompileInputs.cache
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.dll
+C:\Users\DDThang\Desktop\MyBlog\BlogMe\BlogMe.Data\obj\Debug\netcoreapp3.1\BlogMe.Data.pdb
